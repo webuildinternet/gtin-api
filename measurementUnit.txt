@@ -1,0 +1,166 @@
+Aantal
+Aantal cellen
+Aantal internationale eenheden (IE)
+Aantal paren
+Ampère
+Ampère uur
+Angström
+Anti-XA eenheid
+Assortiment
+Atomaire massa-eenheid (u/ame/amu)
+Bar (eenheid voor druk)
+Base box
+Batch
+Beeldpunten per inch (Dots per inch; dpi)
+Bit per seconde
+Blocnote
+Boek
+Britse warmte-eenheid (BTU, British thermal unit)
+Bruto kilogram
+Byte
+Candela per vierkante meter
+Centigram
+Centiliter
+Centimeter
+Centimeter per seconde
+Centimeter Per Uur
+Dagen
+Decibel
+Decigram
+Deciliter
+Decimeter
+Dimensioneringsfactor (Sizing factor)
+Dosis
+Dozijn
+Draagvermogen
+Duizend Liter
+Duizend stuks
+Eetlepel
+Femtoliter
+Gallon (VK)	
+Gallon (VS)
+Gebruik
+Gigabyte
+Graadmeter
+Graden Celsius
+Gram
+Gram per kubieke centimeter
+Gram per liter
+Gram per uur
+Gram per vierkante meter
+Half dozijn
+Hectoliter
+Hertz
+Inches
+Internationale Eenheden per kilogram (IE/kg)	
+Joule
+Kaart
+Kelvin
+Kilobyte
+Kilocalorie (internationale tabel)
+Kilogram
+Kilogram per vierkante meter
+Kilometer
+Kilometer per uur
+Kilowatt
+Kilowatt / uur
+Kilowattuur
+Kit
+Kopje (VS)
+Kubieke centimeter
+Kubieke decimeter
+Kubieke inch
+Kubieke meter
+Kubieke meter per uur
+Kubieke millimeter
+Lineaire meter
+Link
+Liter
+Liter / dag	
+Liter per uur
+Lumen
+Lumen per Watt
+Lux
+Maand
+Meest waarschijnlijke nummer ('Most probable number')
+Megabyte
+Megahertz	
+Megawatt
+Megawattuur (1000 kWh)	
+Meter
+Meter per seconde
+Metrisch karaat
+Microgram
+Microliter
+Micrometer
+Micromol
+Mijl per minuut
+Miljoen Internationale Eenheid (NIE)	
+Milliampère uur
+Milligram
+Milliliter
+Millimeter
+Millimeter per seconde
+Minuut (tijdseenheid)
+Nanogram
+Netto kilogram
+Oertinctuur (droog materiaal)
+Ohm
+Ons
+Ons per vierkante yard
+Paar
+Paardenkracht
+Pagina - hardcopy
+Peck (Droog, VS)	
+per liter (/L)
+per milliliter (/mL)
+pH (zuurgraad)
+Picometer
+Picowatt
+Pint (VK)	
+Pixel
+Pixels per centimeter
+Pond (0.45359237 kg)
+Portie
+Potential Renal Solute Load
+Procent
+Quart, Droog VS
+Retinol Activiteit Equivalenten	
+Rol
+Schepel (UK; in het Engels 'Bushel')
+Schepel (VS, in het Engels 'Bushel')	
+Seconde (tijdseenheid)
+Set
+Slagen per minuut
+SQ-E (aantal allergenen)
+Standaardatmosfeer
+Startstroom
+Stère
+Stuks
+Stuks (piece)
+Tablet
+Tanden Per Inch
+Terabyte
+Theelepel
+Ton (metrisch)	
+Uur
+Vat VS
+Vel
+Vierkante centimeter
+Vierkante decimeter
+Vierkante meter
+Vierkante meter/seconde
+Vierkante millimeter
+Vierkante voet
+Vloeibare ons ('Fluid ounce', VK)
+Vloeibare ons ('Fluid ounce', VS)
+Voet
+Voet per uur
+Volt
+Vracht
+Watt
+Wattuur
+Week
+Yard
+Yard per minuut
+Yard per uur	
