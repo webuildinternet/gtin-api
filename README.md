@@ -1,4 +1,4 @@
-# GTIN-API for E-Commerce Integration README
+# GTIN-API for E-Commerce Integration
 
 ## Introduction
 
